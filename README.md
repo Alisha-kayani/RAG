@@ -1,4 +1,10 @@
+Youtube Video
 
+https://youtu.be/LP6sI8J9Kgg?si=NyuV7hFDLATSynrY
+
+practical
+
+https://youtu.be/J5_-l7WIO_w?si=ThGw2HjbZwZBksRw
 
 ### **Retrieval Augmented Generation (RAG)**
 --- 
